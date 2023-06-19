@@ -1,5 +1,5 @@
 # Gp3SourceCode
- Source code of Game Project 3 - Team 13
+ Source code of Game Project 3 - Team 13 <br/>
  A topdown-shooter featuring various gun types and challenging encounters.
 
  ## Programmers
