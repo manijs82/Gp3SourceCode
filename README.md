@@ -3,8 +3,8 @@
  A topdown-shooter featuring various gun types and challenging encounters.
 
  ## Programmers
- Mani Javdani Saleh https://github.com/manijs82 <br/>
- Nicholas Mondino https://github.com/SokySergeant
+ [Mani Javdani Saleh](https://github.com/manijs82) <br/>
+ [Nicholas Mondino](https://github.com/SokySergeant) <br/>
 
  ## Summary
  This game has several systems working toghether and you can see that with our folder structer
