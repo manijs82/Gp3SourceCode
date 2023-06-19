@@ -1,6 +1,6 @@
 # Gp3SourceCode
  Source code of Game Project 3 - Team 13
- A topdown-shooter featuring varouis gun types and challenging encounters.
+ A topdown-shooter featuring various gun types and challenging encounters.
 
  ## Programmers
  Mani Javdani Saleh https://github.com/manijs82 <br/>
